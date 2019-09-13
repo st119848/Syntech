@@ -2,7 +2,7 @@ const rp = require('request-promise');
 let moment = require('moment-timezone');
 
 const config = {
-  channelAccessToken: "vYbO9GkZgdoeOM0pkORlAlA+0ml2WOviuthR/qhgmeaoXlKxTuI5H9sTXc3RA+Dm1M1k1zBjst09iwBPlnyL65BZbZd5QS9w+b62OhZz52+SBPA3PmYGeYtSzsjpNw3R0woLeICHFPnJ4FVwbUFxHgdB04t89/1O/w1cDnyilFU=",
+  channelAccessToken: "",
 };
 
 const contents_before = {
