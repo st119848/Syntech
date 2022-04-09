@@ -39,7 +39,7 @@
     "leaflet": "^1.5.1",
     "leaflet-svg-shape-markers": "^1.1.1",
     "mathjs": "^6.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.26",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
