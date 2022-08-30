@@ -40,7 +40,7 @@
     "leaflet-svg-shape-markers": "^1.1.1",
     "mathjs": "^6.2.1",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
     "vue-chartjs": "^3.4.2",
